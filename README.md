@@ -10,6 +10,11 @@
 ## Description
 Honey Defender is an original two-player turn-based game that can be played by humans or a Reinforcement Learning model. One player controls all bear tokens, and the other player controls all bees. The goal of the game is to push off all but one of the enemy tokens from the hexagonal board. On a player’s turn, they can choose to move in any of 6 directions that do not move their piece off the board. 
 
+
+## Gameplay
+
+![Gameplay](screenshots/gameplay.gif)
+
 ## Repository Structure
 ```
 honey-defender/
