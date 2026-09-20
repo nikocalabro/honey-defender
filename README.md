@@ -13,6 +13,8 @@ Honey Defender is an original two-player turn-based game that can be played by h
 
 ## Gameplay
 
+Below is a video demo of two AIs playing against each other for training. We set up a punishment/reward systems to reward AIs for obtaining positions in the middle, killing, and staying alive.  
+
 ![Gameplay](screenshots/gameplay.gif)
 
 ## Repository Structure
