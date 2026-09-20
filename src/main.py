@@ -8,7 +8,7 @@
 ###                                            ML RL Honey Defender                                                  ###
 ########################################################################################################################
 import math
-from collections.abc import Sequence
+from collections.abc import Sequence # python -m src.main   to run
 from enum import Enum
 
 import pygame
