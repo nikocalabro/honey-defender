@@ -1,4 +1,4 @@
-<h1 align="center">Dominate Or Decease</h1> 
+<h1 align="center">Honey Defender</h1> 
 
 <h2 align="center">
     <a href="https://github.com/LandonBisson">Landon Bisson</a> &nbsp&nbsp&nbsp
